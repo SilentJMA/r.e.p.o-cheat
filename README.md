@@ -6,7 +6,6 @@ Basic C# Mono open-source cheat for a new lethal like game called R.E.P.O
 
 ![ezgif-3f3ad382af2a52](https://github.com/user-attachments/assets/745e055f-0e84-4f6c-b1d8-470c916e16e5)
 
-Here's a clean, professional `README.md` for your GitHub repository, explaining how to use the `inject.bat` file to inject the cheat DLL:
 
 ---
 
