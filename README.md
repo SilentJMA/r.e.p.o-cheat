@@ -12,7 +12,7 @@ Here's a clean, professional `README.md` for your GitHub repository, explaining 
 
 # REPO Cheat Injector
 
-This repository contains a workaround to inject `r.e.p.o.cheat.dll` into the `REPO` game process.
+This repository contains a workaround to inject r.e.p.o.cheat into the `REPO` game.
 
 ---
 
