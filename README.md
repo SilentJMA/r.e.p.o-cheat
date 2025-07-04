@@ -20,7 +20,7 @@ This repository contains a workaround to inject `r.e.p.o.cheat.dll` into the `RE
 
 1. **Create the Injector Script**
 
-   In your `Cheat` folder (alongside the `.dll` file and `smi.exe`), create a file named `inject.bat` and paste the following content into it:
+   In your `Cheat` folder (alongside the `.dll` file), create a file named `inject.bat` and paste the following content into it:
 
    ```bat
    @echo off
@@ -54,12 +54,6 @@ Cheat/
 ```
 
 ---
-
-## 🛠️ Notes
-
-* `smi.exe` is assumed to be a standard DLL injector. Ensure it is trusted and safe before use.
-* The command injects the DLL into a process named `REPO`, calling the class `Loader`, method `Init`.
-
 
 # **FUNCTIONS (still working on, i will release new versions whenever i add functions):**
 - See Live/Dead Players<br />
